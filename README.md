@@ -33,7 +33,7 @@ The workflow covers the entire NLP pipeline – from data collection to visualiz
 
 -> Source: Reddit (technology, elonmusk, teslamotors, cars subreddits).
 
--> Size: ~674 posts.
+-> Size: ~667 posts.
 
 Columns:
 
