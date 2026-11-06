@@ -4,7 +4,7 @@ link to tableau public dashboard:
 
 https://public.tableau.com/app/profile/fiza.fatima8695/viz/Tesla-CyberTruckRedditPosts/Dashboard3
 
-[![image](Screenshot/Dashboard3(1).png)]
+![Dashboard Preview](<Screenshot/Dashboard3(1).png>)
 
 📌 Project Overview
 
