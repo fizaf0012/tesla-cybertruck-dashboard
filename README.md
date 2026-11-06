@@ -4,6 +4,8 @@ link to tableau public dashboard:
 
 https://public.tableau.com/app/profile/fiza.fatima8695/viz/Tesla-CyberTruckRedditPosts/Dashboard3
 
+![Project Screenshot](Screenshot/Dashboard3(1).png)
+
 📌 Project Overview
 
 This project analyzes Reddit discussions on the Tesla Cybertruck to uncover public sentiment, key topics, and engagement trends.
